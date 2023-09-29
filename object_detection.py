@@ -3,7 +3,6 @@ from keras.layers import Conv2D, Input, BatchNormalization, LeakyReLU, ZeroPaddi
 from tensorflow.keras.layers import add
 from tensorflow.keras.layers import concatenate
 from keras.models import Model
-import struct
 import cv2
 
 
